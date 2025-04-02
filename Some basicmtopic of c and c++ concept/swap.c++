@@ -13,6 +13,7 @@ int main()
 {
     int x,y;
     x=10;
+    
     y=20;
     swap(x,y);
 cout<<"first num"<<x<<endl;
